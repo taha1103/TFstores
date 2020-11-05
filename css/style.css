@@ -346,3 +346,10 @@ background: linear-gradient(to right, #f5af19, #f12711); /* W3C, IE 10+/ Edge, F
 	#popup{
 		width: 300px;
 }
+#newsheading h1{
+        font-size: 30px;
+    }
+    #popup h2{
+        font-size: 15px;
+    }
+}
